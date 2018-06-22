@@ -4,7 +4,7 @@ import kr.hs.emirim.joseoyoung.aopcal.cal.Calculator;
 import kr.hs.emirim.joseoyoung.aopcal.cal.ImpCalculator;
 import kr.hs.emirim.joseoyoung.aopcal.cal.RecCalculator;
 
-public class MainCall {
+public class MainCall { 
 
 	public static void main(String[] args) {
 		long num = 10000;
